@@ -1,7 +1,7 @@
 - 👋 Welcome to Wireless and Emerging Network System Laboratory (WENS Lab.) (무선 첨단 네트워크 시스템 연구실) in Kumoh National Institute of Technology, Republic of Korea.
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 Wireless communication, Artificial Intelligence, Unmanned Any Vehicle (UxV)
+- 🌱 New RATs for future wireless communication systems
+- 💞️ mMIMO-NOMA, NOMA, RIS, OAM
 - 📫 http://wens.re.kr/
 
 <!---
