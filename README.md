@@ -3,6 +3,7 @@
 - 🌱 New RATs for future wireless communication systems
 - 💞️ mMIMO-NOMA, NOMA, RIS, OAM
 - 📫 http://wens.re.kr/
+- 📫 [https://wenslab.notion.site/WENS-Lab-e57d1eba89474d15a470b4d556c88f43](https://wenslab.notion.site/WENS-Lab-e57d1eba89474d15a470b4d556c88f43)
 
 <!---
 WENS-KIT/WENS-KIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
