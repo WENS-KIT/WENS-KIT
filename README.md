@@ -20,7 +20,7 @@
 - 👀 Wireless communication, Artificial Intelligence, Unmanned Any Vehicle (UxV)
 - 🌱 New RATs for future wireless communication systems
 - 💞️ mMIMO-NOMA, NOMA, RIS, OAM
-- 📫 http://wens.re.kr/
+- 📫 https://wens.kumoh.ac.kr/
 
 <!---
 WENS-KIT/WENS-KIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
